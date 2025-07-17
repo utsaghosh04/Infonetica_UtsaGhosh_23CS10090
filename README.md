@@ -48,5 +48,3 @@ See the code comments for a sample JSON payload!
 - [Minimal APIs in .NET](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
 
 ---
-
-MIT License
